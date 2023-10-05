@@ -3,11 +3,14 @@
 声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。
 如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。
 
-#远控工具
-windows远控：
-https://github.com/jonnyhyman/Chaos
+# 远控实验工具
+   开源远控工具，可用于恶意软件分析或者学习。
+1. **windows远控**
+   - **cowrie**: [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
+   - **cowrie**: [https://github.com/jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos)
 
-# Honeypot 推荐
+
+# Honeypot 蜜罐推荐
 
 在网络安全中，蜜罐（Honeypot）是一种用于吸引和监视恶意攻击的工具。以下是一些常用的蜜罐，供您参考。请注意，运行蜜罐需要仔细的计划和考虑。确保您的蜜罐不会成为对其他目标的攻击发起点非常重要。此外，始终及时更新您决定使用的蜜罐软件的最新版本和补丁。
 
@@ -50,4 +53,3 @@ https://github.com/jonnyhyman/Chaos
    - **类型**: ICS/SCADA 蜜罐
    - **描述**: Conpot 是一个低互动的工业控制系统蜜罐，旨在易于部署、修改和扩展。
    - **链接**: [https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)
-
