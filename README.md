@@ -3,6 +3,10 @@
 声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。
 如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。
 
+# 扫描器
+1. **NUCLEI**[https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+   - 免费，开源，高速，自定义模板扫描器。
+
 # 抓包工具
 1. **windows抓包**
    - **wireshark**: [https://www.wireshark.org](https://www.wireshark.org)
