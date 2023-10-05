@@ -20,7 +20,7 @@
 -  **流量在线分析PacketTotal**[https://lab.dynamite.ai/](https://lab.dynamite.ai/)  
 -  **火绒安全软件**[https://www.huorong.cn/](https://www.huorong.cn/)  
   火绒剑进行安全排查，恶意软件行为分析十分好用。
--  **微软官方工具**[https://learn.microsoft.com/enus/sysinternals/downloads/sysinternalssuite](https://learn.microsoft.com/enus/sysinternals/downloads/sysinternalssuite)  
+-  **微软官方工具**[https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)  
   微软官方工具，内含tcp_view,auto_run,process_exprole等重量级工具，十分好用。
   
 # 远控实验工具
