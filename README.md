@@ -48,10 +48,3 @@
   Web 蜜罐，Snare 允许您克隆一个网站以用作诱饵，而 Tanner 处理结果并确定攻击类型。
 -  **Conpot**:[https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)  
   ICS/SCADA 蜜罐，Conpot 是一个低互动的工业控制系统蜜罐，旨在易于部署、修改和扩展。
-
-
-| 列1   | 列2   |
-|
-| 单元格1 | 单元格2 |
-
-
