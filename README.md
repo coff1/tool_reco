@@ -5,11 +5,11 @@
 
 # 扫描器
 1.  **Nuclei**[https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)  
-   免费，开源，高速，自定义模板扫描器。
+   免费，开源，高速，自定义模板扫描器。  
 **XSStrike**[https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)  
-   xss漏洞扫描，可探测dom类型XSS
+   xss漏洞扫描，可探测dom类型XSS  
 **xsser**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)  
-   与xsstrike相似，kali自带
+   与xsstrike相似，kali自带.  
 
 # 抓包工具
 1. **windows抓包**
