@@ -13,7 +13,7 @@
 2. **火绒安全软件**[https://www.huorong.cn/](https://www.huorong.cn/)
    - 火绒剑进行安全排查，恶意软件行为分析十分好用。
 4. **微软官方工具**[https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
-   -微软官方工具，内含tcp_view,auto_run,process_exprole等重量级工具，十分好用。
+   - 微软官方工具，内含tcp_view,auto_run,process_exprole等重量级工具，十分好用。
    
 # 远控实验工具
    开源远控工具，可用于恶意软件分析或者学习。
