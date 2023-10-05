@@ -6,7 +6,7 @@
 # 扫描器
 -  **Nuclei**[https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)  
   免费，开源，高速，自定义模板扫描器。  
-- **XSStrike**[https://github.com/s-  d-  /XSStrike](https://github.com/s-  d-  /XSStrike)  
+- **XSStrike**[XSStrike](https://github.com/s0md3v/XSStrike)  
   xss漏洞扫描，可探测dom类型XSS  
 -  **XSSer**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)  
   与xsstrike相似，kali自带.  
