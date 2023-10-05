@@ -7,7 +7,7 @@
    开源远控工具，可用于恶意软件分析或者学习。
 1. **windows远控**
    - **cowrie**: [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
-   - **cowrie**: [https://github.com/jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos)
+   - **chaos**: [https://github.com/jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos)
 
 
 # Honeypot 蜜罐推荐
