@@ -1,15 +1,15 @@
 # tool_reco
-安全工具推荐，付费软件采用$标记
-- 声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。
-- 如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。
+安全工具推荐，付费软件采用$标记  
+声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。  
+如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。  
 
 # 扫描器
 1. **Nuclei**[https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-   - 免费，开源，高速，自定义模板扫描器。
+   免费，开源，高速，自定义模板扫描器。
 2. **XSStrike**[https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)
-   - xss漏洞扫描，可探测dom类型XSS
+   xss漏洞扫描，可探测dom类型XSS
 3. **xsser**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)
-   - 与xsstrike相似，kali自带
+   与xsstrike相似，kali自带
 
 # 抓包工具
 1. **windows抓包**
