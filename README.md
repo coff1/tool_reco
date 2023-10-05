@@ -34,11 +34,8 @@
 
 在网络安全中，蜜罐（Honeypot）是一种用于吸引和监视恶意攻击的工具。高阶玩家常常用蜜罐捕获0day利用程序。
 
-1. **Cowrie**:
-   - **类型**: 中互动 SSH 和 Telnet 蜜罐
-   - **描述**: Cowrie 是用于 SSH 攻击的常见选择。它可以记录暴力连接尝试，捕获攻击者执行的 shell 交互，并可以配置为提供完整的 shell 或有限的 shell 环境。
-   - **链接**: [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
-
+1. **Cowrie**[https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
+   - 中互动 SSH 和 Telnet 蜜罐，Cowrie 是用于 SSH 攻击的常见选择。它可以记录暴力连接尝试，捕获攻击者执行的 shell 交互，并可以配置为提供完整的 shell 或有限的 shell 环境。
 2. **Dionaea**:
    - **类型**: 低/中互动蜜罐
    - **描述**: Dionaea 旨在捕获恶意软件。它模拟易受攻击的服务，并可以捕获攻击者尝试部署的二进制文件。
