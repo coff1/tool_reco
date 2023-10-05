@@ -8,7 +8,7 @@
   免费，开源，高速，自定义模板扫描器。  
 - **XSStrike**[https://github.com/s-  d-  /XSStrike](https://github.com/s-  d-  /XSStrike)  
   xss漏洞扫描，可探测dom类型XSS  
--  **xsser**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)  
+-  **XSSer**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)  
   与xsstrike相似，kali自带.  
 
 # 抓包工具
@@ -48,3 +48,7 @@
   Web 蜜罐，Snare 允许您克隆一个网站以用作诱饵，而 Tanner 处理结果并确定攻击类型。
 -  **Conpot**:[https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)  
   ICS/SCADA 蜜罐，Conpot 是一个低互动的工业控制系统蜜罐，旨在易于部署、修改和扩展。
+
+
+
+
