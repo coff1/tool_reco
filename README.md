@@ -3,6 +3,18 @@
 声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。
 如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。
 
+# 抓包工具
+1. **windows抓包**
+   - **wireshark**: [https://www.wireshark.org](https://www.wireshark.org)
+   - **Fiddler**: [https://www.telerik.com/fiddler](https://www.telerik.com/fiddler)
+
+# 应急响应
+1. **流量在线分析PacketTotal**[https://lab.dynamite.ai/](https://lab.dynamite.ai/)
+2. **火绒安全软件**[https://www.huorong.cn/](https://www.huorong.cn/)
+   - 火绒剑进行安全排查，恶意软件行为分析十分好用。
+4. **微软官方工具**[https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+   -微软官方工具，内含tcp_view,auto_run,process_exprole等重量级工具，十分好用。
+   
 # 远控实验工具
    开源远控工具，可用于恶意软件分析或者学习。
 1. **windows远控**
@@ -53,3 +65,6 @@
    - **类型**: ICS/SCADA 蜜罐
    - **描述**: Conpot 是一个低互动的工业控制系统蜜罐，旨在易于部署、修改和扩展。
    - **链接**: [https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)
+
+
+
