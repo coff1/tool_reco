@@ -54,5 +54,5 @@
 - **windows开发者工具**[https://developer.microsoft.com/en-us/windows/downloads/](https://developer.microsoft.com/en-us/windows/downloads/)
 
 # 代理工具
-- **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)
+- **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)  
   proxyfiler的激活码[https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9](https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9)
