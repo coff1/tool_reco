@@ -56,4 +56,5 @@
 # 代理工具
 - **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)  
   可以指定软件代理。  
-  proxyfiler的激活码[https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9](https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9)
+  proxyfiler的激活码[https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9](https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9)  
+- **Clash for Windos**[https://github.com/Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
