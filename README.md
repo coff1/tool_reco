@@ -29,7 +29,6 @@
   **cowrie**: [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)  
   **chaos**: [https://github.com/jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos)  
 
-
 # Honeypot 蜜罐
 在网络安全中，蜜罐（Honeypot）是一种用于吸引和监视恶意攻击的工具。高阶玩家常常用蜜罐捕获-  ay利用程序。
 -  **Cowrie**[https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)  
@@ -44,3 +43,8 @@
   Web 蜜罐，Snare 允许您克隆一个网站以用作诱饵，而 Tanner 处理结果并确定攻击类型。
 -  **Conpot**:[https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)  
   ICS/SCADA 蜜罐，Conpot 是一个低互动的工业控制系统蜜罐，旨在易于部署、修改和扩展。
+
+
+# 开发工具
+-  **resourcehacker**[http://www.angusj.com/resourcehacker/](http://www.angusj.com/resourcehacker/)  
+  用来查看和提取二进制文件中的资源，包括图标。  
