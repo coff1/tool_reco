@@ -29,8 +29,7 @@
   **cowrie**: [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)  
   **chaos**: [https://github.com/jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos)  
 
-# Honeypot 蜜罐
-在网络安全中，蜜罐（Honeypot）是一种用于吸引和监视恶意攻击的工具。高阶玩家常常用蜜罐捕获-  ay利用程序。
+# Honeypot 蜜罐  
 -  **Cowrie**[https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)  
   中互动 SSH 和 Telnet 蜜罐，Cowrie 是用于 SSH 攻击的常见选择。它可以记录暴力连接尝试，捕获攻击者执行的 shell 交互，并可以配置为提供完整的 shell 或有限的 shell 环境。
 -  **Dionaea**[https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea)  
