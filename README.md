@@ -51,6 +51,7 @@
   [https://learn.microsoft.com/en-us/windows/win32/](https://learn.microsoft.com/en-us/windows/win32/)
 - **windows开发者文档**[https://learn.microsoft.com/en-us/windows/](https://learn.microsoft.com/en-us/windows/)
 - **windows开发者工具**[https://developer.microsoft.com/en-us/windows/downloads/](https://developer.microsoft.com/en-us/windows/downloads/)
+- **al-khaser反调试，反沙箱，反虚拟化...**[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)
 
 # 代理工具
 - **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)  
