@@ -51,7 +51,8 @@
   [https://learn.microsoft.com/en-us/windows/win32/](https://learn.microsoft.com/en-us/windows/win32/)
 - **windows开发者文档**[https://learn.microsoft.com/en-us/windows/](https://learn.microsoft.com/en-us/windows/)
 - **windows开发者工具**[https://developer.microsoft.com/en-us/windows/downloads/](https://developer.microsoft.com/en-us/windows/downloads/)
-- **al-khaser反调试，反沙箱，反虚拟化...**[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)
+- **al-khaser**[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)  
+  al-khaser是一个开源的Windows平台上的恶意软件环境感知库。它通过各种技术和方法来检测其是否运行在沙箱、虚拟机或调试器中。这些技术通常被恶意软件、勒索软件或其他恶意代码用于逃避检测和分析。  
 
 # 代理工具
 - **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)  
