@@ -47,10 +47,10 @@
 # 开发工具
 -  **resourcehacker**[http://www.angusj.com/resourcehacker/](http://www.angusj.com/resourcehacker/)  
   用来查看和提取二进制文件中的资源，包括图标。  
-- **win32开发者文档**[https://github.com/MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
-  [https://learn.microsoft.com/en-us/windows/win32/](https://learn.microsoft.com/en-us/windows/win32/)
-- **windows开发者文档**[https://learn.microsoft.com/en-us/windows/](https://learn.microsoft.com/en-us/windows/)
-- **windows开发者工具**[https://developer.microsoft.com/en-us/windows/downloads/](https://developer.microsoft.com/en-us/windows/downloads/)
+- **win32开发者文档**[https://github.com/MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)  
+  [https://learn.microsoft.com/en-us/windows/win32/](https://learn.microsoft.com/en-us/windows/win32/)  
+- **windows开发者文档**[https://learn.microsoft.com/en-us/windows/](https://learn.microsoft.com/en-us/windows/)  
+- **windows开发者工具**[https://developer.microsoft.com/en-us/windows/downloads/](https://developer.microsoft.com/en-us/windows/downloads/)  
 - **al-khaser**[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)  
   al-khaser是一个开源的Windows平台上的恶意软件环境感知库。它通过各种技术和方法来检测其是否运行在沙箱、虚拟机或调试器中。这些技术通常被恶意软件、勒索软件或其他恶意代码用于逃避检测和分析。  
 
@@ -58,4 +58,6 @@
 - **proxyfiler**[https://www.proxifier.com/](https://www.proxifier.com/)  
   可以指定软件代理。  
   proxyfiler的激活码[https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9](https://gist.github.com/f0r34chb3t4/a4f57239d76c27829066eae87fe3a8b9)  
-- **Clash for Windows**[https://github.com/Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
+- **Clash for Windows**[https://github.com/Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)  
+- **3proxy**[https://github.com/3proxy/3proxy](https://github.com/3proxy/3proxy)  
+  windows/linux平台轻量代理服务器，支持http，ftp，socks等代理  
