@@ -61,3 +61,9 @@
 - **Clash for Windows**[https://github.com/Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)  
 - **3proxy**[https://github.com/3proxy/3proxy](https://github.com/3proxy/3proxy)  
   windows/linux平台轻量代理服务器，支持http，ftp，socks等代理  
+
+
+# 各类插件
+- **vscode**
+  ***Hex Editor***二进制编辑器  
+  ***Binary Viewer***查看二进制文件   
