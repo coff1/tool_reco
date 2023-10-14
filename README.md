@@ -64,6 +64,6 @@
 
 
 # 各类插件
-- **vscode**
+- **vscode插件**  
   ***Hex Editor***二进制编辑器  
   ***Binary Viewer***查看二进制文件   
