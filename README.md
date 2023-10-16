@@ -67,3 +67,9 @@
 - **vscode插件**  
   ***Hex Editor***二进制编辑器  
   ***Binary Viewer***查看二进制文件   
+
+# 逆向  
+- **安卓apk逆向：**  
+  [Apktool](https://github.com/iBotPeaches/Apktool)反编译apk，重新打包apk...  
+  [dex2jar](https://github.com/pxb1988/dex2jar)处理安卓dex文件和java class文件  
+  [jd-gui](https://github.com/java-decompiler/jd-gui)解包jar文件  
