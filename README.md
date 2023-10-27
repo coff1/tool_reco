@@ -7,7 +7,7 @@
 - **VLC media player**[https://www.videolan.org/vlc/index.html](https://www.videolan.org/vlc/index.html)  
   视频播放器  
 - **Sumatra PDF**[https://www.sumatrapdfreader.org/free-pdf-reader](https://www.sumatrapdfreader.org/free-pdf-reader)  
-  主要用于查看PDF、ePub、MOBI、CHM、XPS、DjVu、CBZ和CBR文件。  
+  主要用于查看PDF、ePub、MOBI、CHM、XPS、DjVu、CBZ和CBR文件  
 
 # 扫描器
 -  **Nuclei**[https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)  
@@ -15,7 +15,7 @@
 - **XSStrike**[https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)  
   xss漏洞扫描，可探测dom类型XSS  
 -  **XSSer**[https://github.com/epsylon/xsser](https://github.com/epsylon/xsser)  
-  与xsstrike相似，kali自带.  
+  与xsstrike相似，kali自带  
 
 # 抓包工具
 -  **windows抓包**  
@@ -25,9 +25,8 @@
 # 应急响应
 -  **流量在线分析PacketTotal**[https://lab.dynamite.ai/](https://lab.dynamite.ai/)  
 -  **火绒安全软件**[https://www.huorong.cn/](https://www.huorong.cn/)  
-  火绒剑进行安全排查，恶意软件行为分析十分好用。
 -  **微软官方工具**[https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)  
-  微软官方工具，内含tcp_view,auto_run,process_exprole等重量级工具，十分好用。
+  微软官方工具：tcp_view,auto_run,process_exprole等  
   
 # 远控实验工具
   开源远控工具，可用于恶意软件分析或者学习。
