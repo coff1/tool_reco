@@ -1,7 +1,3 @@
-# tool_reco  
-个人自用工具集合，付费软件采用$标记  
-声明：本仓库中的代码和内容仅供学习和研究使用，不得用于任何商业目的。任何人或组织在使用时，应遵守相关法律法规，并尊重相关权利人的合法权益。  
-如果您是此项目的版权所有者并认为该项目侵犯了您的权益，请与我联系，我会尽快处理。  
   
 # 日常  
 - **VLC media player**[https://www.videolan.org/vlc/index.html](https://www.videolan.org/vlc/index.html)  
